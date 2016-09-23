@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="test_text_big">We imagine when Allah the Almighty decided to create Adam: He addressed His angels and told them to prostrate before him. He did not mean to ask their opinion or take their advice, for He is above that. Allah the Exalted told them that He was going to create a vicegerent on the earth who would have children and grandchildren who would corrupt the earth and shed each other\'s blood. That is why the angels said to Allah the Almighty: Will You place therein those who will make mischief therein and shed blood! (Chapter 2:30 Quran).</string>
+    <string name="adam_title">ADAM</string>
+    <string name="mercury_intro">THIS IS MERCURY</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+    </string-array>
+</resources>
