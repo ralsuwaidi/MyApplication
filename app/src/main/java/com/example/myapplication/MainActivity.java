@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void adamPage(View view) {
+        Intent intent = new Intent(this, AdamActivity.class);
+        startActivity(intent);
+    }
 }

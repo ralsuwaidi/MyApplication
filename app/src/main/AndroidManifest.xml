@@ -15,7 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MercuryActivity"></activity>
+        <activity android:name=".MercuryActivity" />
+        <activity
+            android:name=".AdamActivity"
+            android:label="@string/title_activity_adam"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
