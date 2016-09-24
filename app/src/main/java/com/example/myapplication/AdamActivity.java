@@ -42,6 +42,8 @@ public class AdamActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+
     }
 
 

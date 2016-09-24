@@ -34,15 +34,22 @@
                 android:paddingBottom="10dp"
                 android:onClick="adamPage"/>
 
+            <com.example.myapplication.ExpandableTextView
+                android:id="@+id/lorem_ipsum"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <com.example.myapplication.ExpandableTextView
+                android:id="@id/lorem_ipsum"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                />
 
         </LinearLayout>
 
-        <ExpandableListView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
 
 
-        </ExpandableListView>
 
     </RelativeLayout>
 </ScrollView>
