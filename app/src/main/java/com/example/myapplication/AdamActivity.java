@@ -26,5 +26,5 @@ public class AdamActivity extends AppCompatActivity {
         });
     }
 
-    
+
 }
